@@ -39,6 +39,7 @@
 @capacitor-community/file-opener
 @capacitor-community/firebase-analytics
 @capacitor-community/firebase-crashlytics
+@capacitor-community/generic-oauth2
 @capacitor-community/google-maps
 @capacitor-community/http
 @capacitor-community/image-to-text
@@ -128,6 +129,7 @@
 @capgo/capacitor-purchases
 @capgo/capacitor-screen-recorder
 @capgo/capacitor-updater
+@capgo/capacitor-uploader
 @capgo/inappbrowser
 @capgo/native-audio
 @capgo/native-market
