@@ -94,6 +94,7 @@
 @capacitor/haptics
 @capacitor/http
 @capacitor/keyboard
+@capacitor/inappbrowser
 @capacitor/live-updates
 @capacitor/local-notifications
 @capacitor/motion
